@@ -1,5 +1,6 @@
 # ED-Simulacao-de-Exames-de-Raio-X
 Trabalho de programação referente a matéria de Estrutura de dados: Simulação de Realização de Exames de Raio-X (parte 1)
+Alunos: Thiago Fabiano e Livia Hombre
 
 Este projeto simula a realização de exames de raio-X de tórax em hospital, com ênfase na organização da fila.
 A cada momento, pacientes chegam ao hospital e exames são realizados mediante disponibilidade de aparelhos. A IA sugere
